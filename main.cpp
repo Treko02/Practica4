@@ -74,7 +74,7 @@ bool contieneLaA(char cadena[]){
 // en blanco, devuelve verdad si dicha cadena es un palÃ­ndromo y falso en caso contrario.
 /*
 {Pre: }
-{Post: }
+{Post:  }
 */
 bool aux2(char cadena[], int p, int x) {
     bool pal= true;
