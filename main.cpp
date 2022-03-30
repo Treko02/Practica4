@@ -67,13 +67,14 @@ bool contieneLaA(char cadena[]){
         return esA;
 
     }
+
 }
 
 // Ejercicio 3. FunciÃ³n recursiva que dada una cadena de caracteres sin espacios
 // en blanco, devuelve verdad si dicha cadena es un palÃ­ndromo y falso en caso contrario.
 /*
 {Pre: }
-{Post:b jbbu}
+{Post:}
 */
 bool aux2(char cadena[], int p, int x) {
     bool pal= true;
